@@ -1,0 +1,8 @@
+.box{
+    /* position: fixed; */
+    background-color: brown;
+    color:white;
+    height: 40vh;
+    width: 40vh;
+    margin-top: 10vh;
+}

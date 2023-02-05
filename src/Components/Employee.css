@@ -1,0 +1,13 @@
+.employee{
+    width: 70vw;
+    height: 10vh;
+    background-color:rgb(238, 242, 250);
+    margin:auto;
+    border-radius: 0.5rem;
+    box-shadow: 7px 7px 5px rgb(219, 219, 241);
+    margin-top: 2vh;
+}
+
+.employee:hover{
+    box-shadow: 7px 7px 5px rgb(192, 192, 197);
+}

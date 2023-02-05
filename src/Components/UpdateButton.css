@@ -1,0 +1,36 @@
+.updateButton{
+    position:fixed;
+    width: 40vw;
+    height: 40vh;
+    left: 30vw;
+    top: 30vh;
+    background-color: rgb(238, 242, 250);
+    border-radius: 1vh;
+}
+
+.overlay{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    left: 0vh;
+    right: 0vh;
+    background: rgba(49,49,49,0.8);;
+}
+
+.closeButton{
+    background-color: rgb(238, 242, 250);
+    height: 25px;
+    width: 25px;
+    float: right;
+    margin-right: 0.5vw;
+    margin-top: 1vh;
+    border-radius: 2vh;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    font-weight: bolder;
+}
+.tableMargin{
+    margin: auto;
+    margin-top: 10vh;
+}

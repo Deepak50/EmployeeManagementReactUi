@@ -1,0 +1,8 @@
+.card{
+    width: 70vw;
+    height: 10vh;
+    background-color:rgb(250, 241, 241);
+    margin:auto;
+    border-radius: 0.5rem;
+    box-shadow: 7px 7px 5px rgb(219, 219, 241);
+}

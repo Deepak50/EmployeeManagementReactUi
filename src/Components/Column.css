@@ -1,0 +1,7 @@
+.column{
+    float:left;
+    width: 12vw;
+    background-color: rgb(238, 242, 250);
+    margin: 1vh;
+    margin-top:3vh;
+}
